@@ -1,4 +1,29 @@
+# Overview
+This repository documents my hands-on learning experience with [Luke Barousse's Python for Data Analytics course](https://www.lukebarousse.com/python). It delves into the top-paying and in-demand skills to help find optimal job opportunities for data analysts.
+
+The data is courced from the course content. This data contains detailed information on job titles, salaries, locations, and essential skills.  Though a series of Python scripts, I explore key questions such as the most demanded skills, salary trends, and the intersection of demand and salary in data analytics.
+
+# The Questions
+Below are the questions answered in this project:
+
+1. What are the most demanded skills for the top 3 most popular data roles?
+2. How are in-demand skills trending for Data Analysts?
+3. How well do jobs and skills pay for Data Analysts?
+4. What is the most optimal skill to learn for Data Analysts? (High Demand AND High Paying)
+
+# Tools I Used
+For my deep dive into the data analyst job market, I harnessed the power of several key tools:
+- **Python:** The backbone of my analysis, allowing me to analyze the data and find crytical insights.  I also used the following Python libraries:
+    - **Pandas Library:** This was used to analyze the data.
+    - **Matplotlib Library:** I visualized the data.
+    - **Seaborn Library:** Helped me create more advanced visuals.
+- **Jupyter Notebooks:** The tool I used to run my Python scripts which let me easily include my notes and analysis.
+- **Visual Studio Code:** My go-to for executing my Python scripts.
+- **Git & GitHub:** Essential for version control and sharing my Python code and analysis.
+
 # The Analysis
+
+Each Jypyter notebook for this project aimed at investigating specific aspects of the data job market. Here's how I approached each question:
 
 ## What are the most demanded skills for the top 3 most popular data roles?
 
@@ -245,3 +270,12 @@ plt.show()
 - The scatter plot shows that most of the `programming` skills (colored blue) tend to cluster at higher salary levels compared to other categories, indicating that programming expertise might offer greater salary benefits within the data analytics field.
 - Analyst tools (colored orange), including Tableau and Power BI, are prevalent in job postings and offer competitive salaries, showing that visualization and data analysis software are crucial for current data roles. This category not only has good salaries but is also versatile across different types of data tasks.
 - The database skills (colored green), such as Oracle and SQL Server, are associated with some of the highest salaries among data analyst tools.  This indicates a significant demand and valuation for data management and manipulation expertise in the industry.
+
+# What I Learned
+Throughout this project, I deepened my understanding of the data analyst job market and enhanced my technical skills in Python, especially in data manipulation and visualization.  Here are a few specific things I learned:
+- **Advanced Python Usage:** Utilizing libraries such as Pandas for data manipulation, Seaborn and Matplotlib for data visualization, and other libraries helped me perform complex data analysis tasks more efficiently.
+- **Data Cleaning Importance:** I learned that thorough data cleaning and preparation are crucial before any analysis can be conducted, ensuring the accuracy of insights derived from the data.
+- **Strategic Skill Analysis:** The project emphasized the importance of aligning one's skills with market demand. Understanding the relationship between skill demand, salary, and job availability allows for more strategic career planning in the tech industry.
+
+# Conclusion
+This exploration into the data analyst job market has been incredibly informative, highlighting the critical skills and trends that shape this evolving field.  The insights I got enhanced my understanding and provided actionable guidance for anyone looking to advance their career in data analytics.  As the market continues to change, ongoing analysis will be essential to stay ahead in data analytics.  This project is a good foundation for future explorations and underscores the importance of continuous learning and adaptation in the data field.
