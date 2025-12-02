@@ -1,7 +1,7 @@
 # Overview
 This repository documents my hands-on learning experience with [Luke Barousse's Python for Data Analytics course](https://www.lukebarousse.com/python). It delves into the top-paying and in-demand skills to help find optimal job opportunities for data analysts.
 
-The data is courced from the course content. This data contains detailed information on job titles, salaries, locations, and essential skills.  Though a series of Python scripts, I explore key questions such as the most demanded skills, salary trends, and the intersection of demand and salary in data analytics.
+The data is sourced from the course content. This data contains detailed information on job titles, salaries, locations, and essential skills.  Though a series of Python scripts, I explore key questions such as the most demanded skills, salary trends, and the intersection of demand and salary in data analytics.
 
 # The Questions
 Below are the questions answered in this project:
